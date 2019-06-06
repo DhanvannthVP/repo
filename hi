@@ -1,0 +1,1 @@
+ssh -i "sangee.pem" ec2-user@ec2-35-180-114-231.eu-west-3.compute.amazonaws.com
