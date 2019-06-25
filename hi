@@ -1,1 +1,5 @@
+ssh -i "awsoffice123.pem" ubuntu@ec2-13-232-182-192.ap-south-1.compute.amazonaws.com
+
+
+
 ssh -i "sangee.pem" ec2-user@ec2-35-180-114-231.eu-west-3.compute.amazonaws.com
